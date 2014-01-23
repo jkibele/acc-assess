@@ -1,0 +1,11 @@
+Training (ref) vs. MLC
+,1,2,3,4,Totals,Accuracy
+1,618,0,0,3,621,100
+2,0,570,2,0,572,100
+3,0,0,313,2,315,99
+4,0,0,1,383,384,100
+Totals,618,570,316,388,1892,
+Accuracy,100,100,99,99,,100
+""
+Quantity Disagreement,5
+Allocation Disagreement,3
