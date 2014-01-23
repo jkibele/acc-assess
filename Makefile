@@ -43,6 +43,8 @@ RESOURCE_FILES = resources_rc.py
 
 HELP = help/build/html
 
+TESTDATA = test_data
+
 default: compile
 
 compile: $(UI_FILES) $(RESOURCE_FILES)
@@ -64,6 +66,7 @@ deploy: compile doc transcompile
 	cp -vf $(PY_FILES) $(HOME)/$(QGISDIR)/python/plugins/$(PLUGINNAME)
 	cp -vf $(UI_FILES) $(HOME)/$(QGISDIR)/python/plugins/$(PLUGINNAME)
 	cp -vf $(RESOURCE_FILES) $(HOME)/$(QGISDIR)/python/plugins/$(PLUGINNAME)
+	cp -vfr $(TESTDATA) $(HOME)/$(QGISDIR)/python/plugins/$(PLUGINNAME)/$(TESTDATA)
 	cp -vf $(EXTRAS) $(HOME)/$(QGISDIR)/python/plugins/$(PLUGINNAME)
 	cp -vfr i18n $(HOME)/$(QGISDIR)/python/plugins/$(PLUGINNAME)
 	cp -vfr $(HELP) $(HOME)/$(QGISDIR)/python/plugins/$(PLUGINNAME)/help

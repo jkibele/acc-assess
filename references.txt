@@ -1,0 +1,12 @@
+Accuracy Assessment and Error Matrix References:
+
+Congalton, R. G. (1991). A review of assessing the accuracy of classifications 
+of remotely sensed data. Remote sensing of environment, 37(1), 35–46.
+
+Pontius, R. G., & Millones, M. (2011). Death to Kappa: birth of quantity 
+disagreement and allocation disagreement for accuracy assessment. International 
+Journal of Remote Sensing, 32(15), 4407–4429. doi:10.1080/01431161.2011.552923
+
+Wundram, D., & Löffler, J. (2008). High‐resolution spatial analysis of mountain 
+landscapes using a low‐altitude remote sensing approach. International Journal 
+of Remote Sensing, 29(4), 961–974. doi:10.1080/01431160701352113

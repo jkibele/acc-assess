@@ -12,7 +12,7 @@
 name=Accuracy Assessment
 qgisMinimumVersion=2.0
 description=Generate an error matrix and measures of mapping accuracy for raster and reference data.
-version=0.4
+version=0.4.2
 author=Jared Kibele
 email=jkibele@gmail.com
 
