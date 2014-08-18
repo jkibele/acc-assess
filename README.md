@@ -3,6 +3,8 @@
 
 ####Accuracy Assessment plugin for QGIS 2.0
 
+[![DOI](https://zenodo.org/badge/5590/jkibele/acc-assess.png)](http://dx.doi.org/10.5281/zenodo.11318)
+
 by Jared Kibele 
 
 Graduate Student at [Leigh Marine Lab](http://www.marine.auckland.ac.nz/en/about/our-institute/leigh-marine-laboratory.html), [University of Auckland](https://www.auckland.ac.nz/en.html)
